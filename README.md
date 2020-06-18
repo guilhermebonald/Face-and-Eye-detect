@@ -1,2 +1,2 @@
 # Image-Detect-OpenCV
-Face and Eye Detect with OpenCV.
+Little project Face and Eye Detect with OpenCV.
